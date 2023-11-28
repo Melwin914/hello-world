@@ -1,0 +1,25 @@
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.counter-title{
+    font-style: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.counter-button{
+    display: flex;
+    justify-content: center;
+}
+
+.counter-button{
+    border: red;
+    color: blue;
+}
